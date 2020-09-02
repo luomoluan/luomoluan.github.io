@@ -2,7 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2020/09/02/ddddd/</loc>
+    <loc>http://yoursite.com/2020/09/02/YYGP180430/</loc>
+    
+    <lastmod>2020-09-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/09/02/YYGP180531/</loc>
+    
+    <lastmod>2020-09-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/09/02/YianYouthGrowthPlan/</loc>
+    
+    <lastmod>2020-09-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/09/02/SummerCultureFestival/</loc>
+    
+    <lastmod>2020-09-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/09/02/2019SCF/</loc>
+    
+    <lastmod>2020-09-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/09/02/2018SCF/</loc>
+    
+    <lastmod>2020-09-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/09/02/2017SCF/</loc>
     
     <lastmod>2020-09-02</lastmod>
     
@@ -48,7 +90,21 @@
 
   
   <url>
-    <loc>http://yoursite.com/categories/dddddd/</loc>
+    <loc>http://yoursite.com/categories/%E5%A4%A7%E5%9E%8B%E7%89%B9%E6%AE%8A%E6%B4%BB%E5%8A%A8/</loc>
+    <lastmod>2020-09-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/categories/%E5%A4%A7%E5%9E%8B%E7%89%B9%E6%AE%8A%E6%B4%BB%E5%8A%A8/%E6%98%93%E5%AE%89%E4%B8%AD%E5%AD%A6%E5%A4%8F%E6%97%A5%E6%A0%A1%E5%9B%AD%E6%96%87%E5%8C%96%E7%A5%AD/</loc>
+    <lastmod>2020-09-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/categories/%E5%A4%A7%E5%9E%8B%E7%89%B9%E6%AE%8A%E6%B4%BB%E5%8A%A8/%E6%98%93%E5%AE%89%E5%B0%91%E5%B9%B4%E6%88%90%E9%95%BF%E8%AE%A1%E5%88%92/</loc>
     <lastmod>2020-09-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
